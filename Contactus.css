@@ -1,0 +1,42 @@
+body {
+  background-image: url(nature-images.png);
+  background-size: 100%;
+}
+
+p {
+  font-size: x-large;
+}
+
+div {
+  width: fit-content;
+}
+form {
+  margin-top: 20px;
+  padding: 0%;
+  display: inline-block;
+  margin-left: 10px;
+  /* width: 70%; */
+}
+
+.form-control {
+  background-color: rgb(198, 230, 141);
+  border: 2px solid rgb(210, 245, 10);
+  border-radius: 12px;
+  width: fit-content;
+  
+}
+nav a:hover {
+  font-size: 200%;
+}
+
+nav a {
+  font-size: 150%;
+}
+nav {
+  width: fit-content;
+  margin: auto;
+  padding-top: 30px;
+}
+#carousel{
+  width: 50%;
+}
